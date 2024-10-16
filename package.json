@@ -11,8 +11,6 @@
   "dependencies": {
     "jose": "^5.9.4",
     "next": "14.2.13",
-    "njwt": "0.4.0",
-    "node-jose": "^2.2.0",
     "react": "^18",
     "react-dom": "^18"
   }
